@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Manuel
 
-<!--
-**Manuelinsanote/manuelinsanote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de programación en secundaria técnica.  
+Me apasiona aprender tanto en clase como por mi cuenta, explorando nuevas ideas y tecnologías.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+- Sé de desarrollo web, aplicaciones y videojuegos  
+- Sé dibujar y, aunque no me considero un experto, tengo experiencia y soy hábil en ello  
+- Me gusta dar a mis proyectos un enfoque más artístico y personal  
+- Disfruto explorar diferentes áreas y aprender todo lo que considero interesante o entretenido  
+
+---
+
+## Tecnologías que estoy aprendiendo
+- Lenguajes: **Python, Java, C#**
+- Web: **HTML, CSS, JavaScript**
+- Herramientas: **Git, GitHub, Visual Studio Code, Android Studio**
