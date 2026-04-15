@@ -1,7 +1,7 @@
 # Hola, soy Manuel
 
 Soy estudiante de programación en secundaria técnica.  
-Me apasiona aprender tanto en clase como por mi cuenta, explorando nuevas ideas y tecnologías.
+Me gusta aprender tanto en clase como por mi cuenta, explorando nuevas ideas y tecnologías.
 
 ---
 
