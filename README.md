@@ -1,6 +1,6 @@
 # Hola, soy Manuel
 
-Soy estudiante de programación en secundaria técnica.  
+Soy estudiante de programación en una secundaria técnica.  
 Me gusta aprender tanto en clase como por mi cuenta, explorando nuevas ideas y tecnologías.
 
 ---
