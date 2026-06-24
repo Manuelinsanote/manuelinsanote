@@ -7,7 +7,7 @@ Soy estudiante de programación en una secundaria técnica.
 ## Sobre mí
 - Sé de desarrollo web, aplicaciones y videojuegos  
 - Sé dibujar y, aunque no me considero un experto, tengo experiencia y soy hábil en ello  
-- Me gusta dar a mis proyectos un enfoque más artístico y personal  
+- Me gusta dar a mis proyectos un enfoque más artístico y personal. aunque la mayoria del contenido que veras en mi cuenta son pruebas de codigo o actividades.
 - Disfruto explorar diferentes áreas y aprender todo lo que considero interesante o entretenido  
 
 ---
