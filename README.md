@@ -16,3 +16,8 @@ Soy estudiante de programación en una secundaria técnica.
 - Lenguajes: **Python, Java, C#**
 - Web: **HTML, CSS, JavaScript**
 - Herramientas: **Git, GitHub, Visual Studio Code, Android Studio**
+
+---
+
+Contacto:
+Email- gaudioz123@gmail.com
